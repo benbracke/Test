@@ -1,5 +1,4 @@
-{
-    "data": [
+[
  {
    "id":"1",
    "employee_name":"Tiger Nixon",
@@ -120,8 +119,4 @@
    "employee_name":"Doris Wilder",
    "employee_salary":"85600"
  }
-],
-    "paging":  {
-      "total":  24
-    }
-}
+]
